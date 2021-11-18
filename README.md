@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheofilosKiapidis
-- 👀 I’m interested in databases, threading and networking.
+- 👀 I’m interested in databases, threading, servers and networking.
 - 🌱 I’m currently learning too many things to list here.
 - 💞️ I’m looking to collaborate on small projects.
 
